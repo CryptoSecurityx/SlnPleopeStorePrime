@@ -1,0 +1,48 @@
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\PleopeStorePrimeWindows.exe
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\PleopeStorePrimeWindows.pdb
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.Properties.Resources.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.exe
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.pdb
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmPrincipal.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmCadastrarCliente.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmCadastrarFuncionario.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmPesquisarCliente.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\DataAccess.dll
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\DataAccess.pdb
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmPesquisarFuncionario.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\Model.dll
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\Model.pdb
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmCadastrarProgramador.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmPesquisarProgramador.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmCadastroDeUsuario.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmPesquisarUsuario.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmAutenticar.resources
+C:\Projects\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\PleopeStorePrimeWindows.exe.config
+C:\Users\DARKSHION\Documents\Visual Studio 2013\Projects\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\PleopeStorePrimeWindows.exe.config
+C:\Users\DARKSHION\Documents\Visual Studio 2013\Projects\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.exe
+C:\Users\DARKSHION\Documents\Visual Studio 2013\Projects\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.pdb
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\PleopeStorePrimeWindows.exe.config
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\PleopeStorePrimeWindows.exe
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\PleopeStorePrimeWindows.pdb
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\DataAccess.dll
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\Model.dll
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\DataAccess.pdb
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\bin\Debug\Model.pdb
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.csprojResolveAssemblyReference.cache
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmAutenticar.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmCadastroDeUsuario.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmCadastrarProgramador.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmCadastrarFuncionario.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmCadastrarCliente.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmPesquisarCliente.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmPesquisarFuncionario.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmPesquisarProgramador.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmPrincipal.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.frmPesquisarUsuario.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.Properties.Resources.resources
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.csproj.GenerateResource.Cache
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.exe
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\PleopeStorePrimeWindows\obj\x86\Debug\PleopeStorePrimeWindows.pdb

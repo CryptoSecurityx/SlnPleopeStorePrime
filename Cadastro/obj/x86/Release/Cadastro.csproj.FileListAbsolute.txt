@@ -1,0 +1,9 @@
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Release\Cadastro.exe
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Release\Cadastro.pdb
+C:\Projects\SlnPleopeStorePrime\Cadastro\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\SlnPleopeStorePrime\Cadastro\obj\x86\Release\Cadastro.exe
+C:\Projects\SlnPleopeStorePrime\Cadastro\obj\x86\Release\Cadastro.pdb
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Release\DataAccess.dll
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Release\DataAccess.pdb
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Release\Model.dll
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Release\Model.pdb

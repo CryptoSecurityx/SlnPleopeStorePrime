@@ -1,0 +1,5 @@
+C:\Projects\SlnPleopeStorePrime\Model\bin\Release\Model.dll
+C:\Projects\SlnPleopeStorePrime\Model\bin\Release\Model.pdb
+C:\Projects\SlnPleopeStorePrime\Model\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\SlnPleopeStorePrime\Model\obj\Release\Model.dll
+C:\Projects\SlnPleopeStorePrime\Model\obj\Release\Model.pdb

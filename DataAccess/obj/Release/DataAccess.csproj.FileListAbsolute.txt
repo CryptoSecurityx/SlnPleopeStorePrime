@@ -1,0 +1,7 @@
+C:\Projects\SlnPleopeStorePrime\DataAccess\bin\Release\DataAccess.dll
+C:\Projects\SlnPleopeStorePrime\DataAccess\bin\Release\DataAccess.pdb
+C:\Projects\SlnPleopeStorePrime\DataAccess\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\SlnPleopeStorePrime\DataAccess\obj\Release\DataAccess.dll
+C:\Projects\SlnPleopeStorePrime\DataAccess\obj\Release\DataAccess.pdb
+C:\Projects\SlnPleopeStorePrime\DataAccess\bin\Release\Model.dll
+C:\Projects\SlnPleopeStorePrime\DataAccess\bin\Release\Model.pdb

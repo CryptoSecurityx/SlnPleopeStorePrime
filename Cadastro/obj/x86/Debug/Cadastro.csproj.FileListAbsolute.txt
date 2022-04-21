@@ -1,0 +1,18 @@
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Debug\Cadastro.exe
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Debug\Cadastro.pdb
+C:\Projects\SlnPleopeStorePrime\Cadastro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\SlnPleopeStorePrime\Cadastro\obj\x86\Debug\Cadastro.exe
+C:\Projects\SlnPleopeStorePrime\Cadastro\obj\x86\Debug\Cadastro.pdb
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Debug\DataAccess.dll
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Debug\DataAccess.pdb
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Debug\Model.dll
+C:\Projects\SlnPleopeStorePrime\Cadastro\bin\Debug\Model.pdb
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\Cadastro\bin\Debug\DataAccess.dll
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\Cadastro\bin\Debug\Model.dll
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\Cadastro\bin\Debug\DataAccess.pdb
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\Cadastro\bin\Debug\Model.pdb
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\Cadastro\obj\x86\Debug\Cadastro.csprojResolveAssemblyReference.cache
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\Cadastro\obj\x86\Debug\Cadastro.exe
+C:\Users\Krypt0\Documents\Visual Studio 2013\Projects\C#\Projects Senac\SlnPleopeStorePrime\Cadastro\obj\x86\Debug\Cadastro.pdb
